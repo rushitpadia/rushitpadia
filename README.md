@@ -14,4 +14,4 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **rushit.padia@greylabs.com**
+- 📫 How to reach me **rushitpadia@gmail.com**
