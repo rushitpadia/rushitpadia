@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rushit</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Rushit</h1>
 <h3 align="center"/>Full Stack Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushitpadia&label=Profile%20views&color=0e75b6&style=flat" alt="rushitpadia" /> </p>
